@@ -1,1 +1,3 @@
 theme: jekyll-theme-time-machine
+title: Choice Based Password Generator
+description: A random password generator that can include uppercase characters, special characters, numbers, and the amount of letters.
